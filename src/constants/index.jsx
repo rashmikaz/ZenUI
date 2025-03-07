@@ -6,11 +6,11 @@ import { PlugZap } from "lucide-react";
 import { GlobeLock } from "lucide-react";
 
 import user1 from "../assets/profile-pictures/user1.jpg";
-import user2 from "../assets/profile-pictures/user2.jpg";
-import user3 from "../assets/profile-pictures/user3.jpg";
-import user4 from "../assets/profile-pictures/user4.jpg";
-import user5 from "../assets/profile-pictures/user5.jpg";
-import user6 from "../assets/profile-pictures/user6.jpg";
+import user2 from "../assets/profile-pictures/user2.jpeg";
+import user3 from "../assets/profile-pictures/user3.jpeg";
+import user4 from "../assets/profile-pictures/user4.jpeg";
+import user5 from "../assets/profile-pictures/user5.jpeg";
+import user6 from "../assets/profile-pictures/user6.jpeg";
 
 export const navItems = [
   { label: "Features", href: "#" },
