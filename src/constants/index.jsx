@@ -61,39 +61,39 @@ export const testimonials = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    text: "Product UI UX Design",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "A well-designed product has a clear purpose. It’s intuitive results in clear business growth. Our UX design process allows you to design new products and re-design existing products to meet your unique needs.",
   },
   {
     icon: <Fingerprint />,
-    text: "Multi-Platform Compatibility",
+    text: "Product Re-Design",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Product re-design is your key to attract new and retain existing users. not adding new features. What if you can improve the visual appeal incrementally and gain the attention your business want? We have done just that.",
   },
   {
     icon: <ShieldHalf />,
-    text: "Built-in Templates",
+    text: "Product Engineering",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+      "We assemble engineering teams that are dependable and adaptable that match your requirements while keeping you in full control of people and product roadmap.",
   },
   {
     icon: <BatteryCharging />,
-    text: "Real-Time Preview",
+    text: "MVP Development",
     description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+      "We can help you build a MVP to launch new products. But we are also open to flexible working models, co-investing in promising ideas and networking with industry leaders. We are eager to make it happen.",
   },
   {
     icon: <PlugZap />,
-    text: "Collaboration Tools",
+    text: "Websites Development",
     description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+      "We create responsive, SEO-friendly websites with custom design, e-commerce solutions, CMS platforms, and secure backend development. Our goal is to enhance user engagement, performance, and experience for all web applications.",
   },
   {
     icon: <GlobeLock />,
-    text: "Analytics Dashboard",
+    text: "Software Development",
     description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+      "We develop desktop, mobile, applications with cross-platform compatibility, robust security, optimized performance, and scalable architecture, ensuring your business applications, SaaS platforms solutions are built for success.",
   },
 ];
 
