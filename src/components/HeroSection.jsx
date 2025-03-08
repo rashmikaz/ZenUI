@@ -3,22 +3,22 @@ const Herosection = () => {
   return (
     <div className="flex flex-col items-center mt-6 lg:mt-20">
         <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
-        VirtualR build tools
-        <span className="bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text">
+        Crafting Ideas into
+        <span className="bg-gradient-to-r from-gray-300 to-gray-500 text-transparent bg-clip-text"
+        >
           {" "}
-          for developers
+          Intuitive Experiences
         </span>
       </h1>
       <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl">
-        Empower your creativity and bring your VR app ideas to life with our
-        intuitive development tools. Get started today and turn your imagination
-        into immersive reality!
+      We blend creativity with functionality, turning visionary ideas into user-friendly designs that deliver seamless digital experiences, enhancing every interaction with precision and innovation!
       </p>
 
       <div className="flex justify-center my-10">
         <a
           href="#"
-          className="bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md"
+          className="bg-gradient-to-r from-gray-700 to-gray-900 text-white py-2 px-3 rounded-md shadow-md transform hover:scale-105 hover:from-gray-800 hover:to-gray-900 transition-all duration-300 ease-in-out"
+
         >
           Start for free
         </a>
