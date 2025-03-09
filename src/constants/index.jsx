@@ -168,10 +168,9 @@ export const resourcesLinks = [
 
 export const platformLinks = [
   { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
-  { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
+  { href: "#", text: "Supported" },
+  { href: "#", text: "Requirements" },
+  { href: "#", text: "Contact" },
 ];
 
 export const communityLinks = [
