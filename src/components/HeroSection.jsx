@@ -1,8 +1,8 @@
 
 const Herosection = () => {
   return (
-    <div className="flex flex-col items-center mt-6 lg:mt-20">
-        <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
+    <div className="flex flex-col items-center mt-6 lg:mt-22">
+        <h1 className="text-4xl sm:text-6xl lg:text-8xl text-center tracking-wide">
         Crafting Ideas into
         <span className="bg-gradient-to-r from-gray-300 to-gray-500 text-transparent bg-clip-text"
         >
