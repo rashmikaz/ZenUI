@@ -127,8 +127,8 @@ export const checklistItems = [
 
 export const pricingOptions = [
   {
-    title: "Free",
-    price: "$0",
+    title: "Time & Material",
+    price: "The Dedicated Team model provides specialists who fully dedicate their efforts to a project. This model allows the Client to directly The contract typically includes:",
     features: [
       "Private board sharing",
       "5 Gb Storage",
@@ -137,8 +137,8 @@ export const pricingOptions = [
     ],
   },
   {
-    title: "Pro",
-    price: "$10",
+    title: "Fixed Budget",
+    price: "The Fixed Budget model is one of the most popular pricing options. It builds upon the Time & Material model,the only difference being a commitment to deliver a complete ",
     features: [
       "Private board sharing",
       "10 Gb Storage",
@@ -147,8 +147,8 @@ export const pricingOptions = [
     ],
   },
   {
-    title: "Enterprise",
-    price: "$200",
+    title: "Fixed Price",
+    price: "The Fixed Price model operates on a predefined sum specified in the contract, paid in parts as agreed. This model offers high predictability as the developers",
     features: [
       "Private board sharing",
       "Unlimited Storage",
@@ -156,6 +156,7 @@ export const pricingOptions = [
       "Private Mode",
     ],
   },
+  
 ];
 
 export const resourcesLinks = [

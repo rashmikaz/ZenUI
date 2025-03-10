@@ -5,6 +5,7 @@ import Workflow from "./components/Workflow";
 import Review from "./components/Review";
 import Footer from "./components/Footer";
 import Projects from "./components/ projects"
+import Pricing from "./components/Pricing";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
      <ServiceSection />
      <Workflow />
      <Projects />
+     <Pricing />
      <Review />
      <Footer />
 
