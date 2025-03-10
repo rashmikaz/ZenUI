@@ -101,27 +101,27 @@ export const checklistItems = [
   {
     title: "Concept",
     description:
-      "We help our Partners carry out the discovery phase, defining the product-market fit and forming the project requirements. Get started with business analytics, lean startup coaching and design thinking.",
+      "We help our Partners carry out the discovery phase, defining the product-market fit and forming the project requirements.",
   },
   {
     title: "Prototype",
     description:
-      "We create clickable product versions and help our Partners define further development, essential functionality and user design. According to the decisions made at this stage, we assign a professional team dedicated solely to your project.",
+      "We create clickable product versions and help our Partners define further development, essential functionality and user design.",
   },
   {
     title: "MVP",
     description:
-      "Your dedicated team creates a basic yet fully functional version of the product ready for market launch. A minimum viable product helps you attract investments and gather invaluable user feedback to determine the next features.",
+      "Your dedicated team creates a basic yet fully functional version of the product ready for market launch.",
   },
   {
     title: "Full Product",
     description:
-      "With the user feedback from the MVP and our business expertise, your assigned dedicated team creates a full-fledged, marketable product. Our developers follow Scrum best practices and the agreed feature plan.",
+      "With the user feedback from the MVP and our business expertise, your assigned dedicated team creates a full-fledged, marketable product.",
   },
   {
     title: "Scaling",
     description:
-      "We bet on long-term collaborations and guide our Partners through the entire process, including scaling already existing products. We help them find new niches and expand the product's market presence.",
+      "We bet on long-term collaborations and guide our Partners through the entire process, including scaling already existing products.",
   }
 ];
 
