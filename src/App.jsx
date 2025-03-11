@@ -6,6 +6,7 @@ import Review from "./components/Review";
 import Footer from "./components/Footer";
 import Projects from "./components/ projects"
 import Pricing from "./components/Pricing";
+import ContactSection from "./components/ ContactSection";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
      <Projects />
      <Pricing />
      <Review />
+     <ContactSection />
      <Footer />
 
 
