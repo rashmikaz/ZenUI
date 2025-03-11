@@ -31,7 +31,8 @@ const Herosection = () => {
           aria-label="Talk to Us"
           className="bg-gradient-to-r from-gray-700 to-gray-900 text-white py-2 px-3 rounded-md shadow-md transform hover:scale-105 hover:from-gray-800 hover:to-gray-900 transition-all duration-300 ease-in-out"
         >
-          Talk to Us
+          Start building your next product
+
         </a>
         <a 
           href="#" 
