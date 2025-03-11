@@ -9,7 +9,7 @@ const ContactSection = () => {
   };
 
   return (
-    <section className="py-16 px-6 lg:px-20">
+    <section className="py-16 px-6 lg:px-20 mt-10">
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
         
         <div>

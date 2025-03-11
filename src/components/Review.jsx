@@ -2,7 +2,7 @@ import { testimonials } from "../constants";
 
 const Review = () => {
   return (
-    <div className="mt-20 tracking-wide">
+    <div className="relative mt-30 border-b border-neutral-800 min-h-[800px]">
       <h2 className="text-3xl sm:text-5xl lg:text-6xl text-center my-10 lg:my-20">
       Testimonials That Speak for Themselves
       </h2>

@@ -21,7 +21,7 @@ const projects = [
   
   export default function ProjectCards() {
     return (
-      <div className="container mx-auto px-4 py-12  text-white tracking-wide">
+      <div className="container mx-auto px-4 py-12  text-white tracking-wide ">
         <h2 className="text-3xl sm:text-5xl lg:text-6xl text-center my-10 lg:my-20">Speaking of projects</h2>
         <p className="text-center text-neutral-400 mb-8">Check out what’s been cooking lately</p>
         <div className="flex flex-wrap justify-center">
